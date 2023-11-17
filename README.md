@@ -1,18 +1,6 @@
-# Snake Game with Pygame
+# 🐍 Snake Game with Pygame
 
 A classic Snake game implemented in Python using the Pygame library.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Controls](#controls)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -29,10 +17,3 @@ This Snake game is a simple implementation in Python using the Pygame library. I
 
 - Python 3.x
 - Pygame library
-
-## Installation
-
-1. Clone or download the repository:
-
-   ```bash
-   git clone https://github.com/your-username/snake-game.git
